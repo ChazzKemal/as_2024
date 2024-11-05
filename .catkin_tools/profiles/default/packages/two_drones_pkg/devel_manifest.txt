@@ -1,0 +1,7 @@
+two_drones_pkg
+/home/eatron/catkin_ws/devel/.private/two_drones_pkg/cmake.lock /home/eatron/catkin_ws/devel/./cmake.lock
+/home/eatron/catkin_ws/devel/.private/two_drones_pkg/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake /home/eatron/catkin_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake
+/home/eatron/catkin_ws/devel/.private/two_drones_pkg/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake /home/eatron/catkin_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake
+/home/eatron/catkin_ws/devel/.private/two_drones_pkg/lib/pkgconfig/two_drones_pkg.pc /home/eatron/catkin_ws/devel/lib/pkgconfig/two_drones_pkg.pc
+/home/eatron/catkin_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/frames_publisher_node /home/eatron/catkin_ws/devel/lib/two_drones_pkg/frames_publisher_node
+/home/eatron/catkin_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/plots_publisher_node /home/eatron/catkin_ws/devel/lib/two_drones_pkg/plots_publisher_node

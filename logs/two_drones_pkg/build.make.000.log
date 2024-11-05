@@ -1,0 +1,46 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/frames_publisher_node.dir/src/frames_publisher_node.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/plots_publisher_node.dir/src/plots_publisher_node.cpp.o[0m
+In file included from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/math/special_functions/round.hpp:13[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/time.h:58[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/eatron/catkin_ws/src/two_drones_pkg/src/plots_publisher_node.cpp:1[m[K:
+[01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/math/tools/config.hpp:23:6:[m[K [01;35m[Kwarning: [m[K#warning "The minimum language standard to use Boost.Math will be C++14 starting in July 2023 (Boost 1.82 release)" [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   23 | #    [01;35m[Kwarning[m[K "The minimum language standard to use Boost.Math will be C++14 starting in July 2023 (Boost 1.82 release)"
+      |      [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/math/special_functions/round.hpp:13[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/time.h:58[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/eatron/catkin_ws/src/two_drones_pkg/src/frames_publisher_node.cpp:1[m[K:
+[01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/math/tools/config.hpp:23:6:[m[K [01;35m[Kwarning: [m[K#warning "The minimum language standard to use Boost.Math will be C++14 starting in July 2023 (Boost 1.82 release)" [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   23 | #    [01;35m[Kwarning[m[K "The minimum language standard to use Boost.Math will be C++14 starting in July 2023 (Boost 1.82 release)"
+      |      [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/smart_ptr/detail/requires_cxx11.hpp:9[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/smart_ptr/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/forwards.h:37[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/common.h:37[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/ros.h:43[m[K,
+                 from [01m[K/home/eatron/catkin_ws/src/two_drones_pkg/src/frames_publisher_node.cpp:1[m[K:
+[01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/config/pragma_message.hpp:24:34:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.[m[K’
+   24 | # define BOOST_PRAGMA_MESSAGE(x) [01;36m[K_Pragma[m[K(BOOST_STRINGIZE(message(x)))
+      |                                  [01;36m[K^~~~~~~[m[K
+[01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/bind.hpp:36:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KBOOST_PRAGMA_MESSAGE[m[K’
+   36 | [01;36m[KBOOST_PRAGMA_MESSAGE[m[K(
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/smart_ptr/detail/requires_cxx11.hpp:9[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/smart_ptr/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/forwards.h:37[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/common.h:37[m[K,
+                 from [01m[K/home/eatron/anaconda3/envs/ros_env/include/ros/ros.h:43[m[K,
+                 from [01m[K/home/eatron/catkin_ws/src/two_drones_pkg/src/plots_publisher_node.cpp:1[m[K:
+[01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/config/pragma_message.hpp:24:34:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.[m[K’
+   24 | # define BOOST_PRAGMA_MESSAGE(x) [01;36m[K_Pragma[m[K(BOOST_STRINGIZE(message(x)))
+      |                                  [01;36m[K^~~~~~~[m[K
+[01m[K/home/eatron/anaconda3/envs/ros_env/include/boost/bind.hpp:36:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KBOOST_PRAGMA_MESSAGE[m[K’
+   36 | [01;36m[KBOOST_PRAGMA_MESSAGE[m[K(
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[ 75%] [32m[1mLinking CXX executable /home/eatron/catkin_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/frames_publisher_node[0m
+[ 75%] Built target frames_publisher_node
+[100%] [32m[1mLinking CXX executable /home/eatron/catkin_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/plots_publisher_node[0m
+[100%] Built target plots_publisher_node

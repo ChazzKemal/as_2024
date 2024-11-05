@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eatron/catkin_ws/devel/.private/two_drones_pkg/setup.sh
